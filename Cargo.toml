@@ -1,0 +1,10 @@
+[package]
+name = "godot-sandbox-rust-api"
+version = "0.6.0"
+edition = "2021"
+license = "MIT"
+keywords = ["gamedev", "godot", "engine"]
+categories = ["game-engines"]
+description = "API Interface that talks to godot-sandbox host machine"
+repository = "https://github.com/libriscv/godot-sandbox-rust-api"
+homepage = "http://libriscv.no"
